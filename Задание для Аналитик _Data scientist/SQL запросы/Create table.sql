@@ -1,0 +1,1 @@
+create table test (id number, name varchar2(10), age number);
